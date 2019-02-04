@@ -1,8 +1,8 @@
-# Project 3 - *Twitter Feed*
+# Twitter - Part I
 
-**Twitter Feed** is a basic twitter app to read your tweets.
+This is a basic twitter app to read your tweets.
 
-Time spent: 6 hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -24,4 +24,3 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/YF6FZpFXFN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
